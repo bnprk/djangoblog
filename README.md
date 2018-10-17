@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Try Django 1.9 Logo](https://cfe-static.s3.amazonaws.com/media/try-django-19/images/try_django_19.png)
 
 # Try Django 1.9
@@ -85,3 +86,7 @@ The tutorial code below is the final code from the end of each tutorial video. E
 [Final Try Django 1.8 Code](../../tree/2e140665355611a54725eb9804655de6ae6276e7)
 
 
+=======
+# djangoblog
+A Django blog with search functionalities and social media integration.
+>>>>>>> refs/remotes/origin/master
